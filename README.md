@@ -6,8 +6,3 @@
 
 # npm start
 
-# cd ecommerce_frontend
-
-# npm i
-
-# npm start
